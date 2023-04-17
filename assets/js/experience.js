@@ -5,25 +5,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Object Oriented Programming",
+    cardImage: "assets/images/experience-page/whitehat.png",
+    place: "WhiteHat Jr",
+    time: "(July, 2020 - January, 2021)",
+    desp: "<li>Made an app where you could view the current covid-19 cases all over India.</li> <li>Made an AI-ChatBot for WhatsApp using BrainShop API with custom responses.</li> <li>Created a basic multiplayer game application where you could play and interact with your friends and random gamers.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Discord Bot Developer",
+    cardImage: "assets/images/experience-page/discord.png",
+    place: "Autocode",
+    time: "(september, 2021 - November, 2022)",
+    desp: "<li>Coded a multipurpose utility bot with features like Advance anti-raid system, Giveaway system, Dank utilities, embed utils and more.</li><li>Made an advance music bot which does not use prefix or commands to work, simply the name of the song in the alloted channel will do the trick.</li><li>Made an awesome dashboard for my Music Discord Bot (Viber) with HTML and CSS.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Mobile Application Dev",
+    cardImage: "assets/images/experience-page/ai-bee-logo.png",
+    place: "MIT App Inventor",
+    time: "(April, 2019 - January, 2020)",
+    desp: "<li>Coded an advance mobile app for editing images .</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
   },
 ];
 
@@ -57,9 +57,9 @@ const showCards2 = () => {
 };
 document.addEventListener("DOMContentLoaded", showCards2);
 
-// Volunteership Cards
+// Volunteership Cards => Iam temporarily commenting this section as i do not know what to do with it. I may change my mind in the future so, for that uncomment this section and the section in experience.html to make this section visible again ~Julian
 
-const volunteership = document.querySelector(".volunteership");
+/*const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "GirlScript Summer Of Code 2020",
@@ -104,11 +104,11 @@ const showCards = () => {
   );
   volunteership.innerHTML = output;
 };
-document.addEventListener("DOMContentLoaded", showCards);
+document.addEventListener("DOMContentLoaded", showCards);*/
 
-// Hackathon Section
+// Hackathon Section=> Iam temporarily commenting this section as i do not know what to do with it. I may change my mind in the future so, for that uncomment this section and the section in experience.html to make this section visible again ~Julian
 
-const hackathonsection = document.querySelector(".hackathon-section");
+/*const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
     title: "The Uplift Project",
@@ -222,4 +222,4 @@ const showCards3 = () => {
   );
   hackathonsection.innerHTML = output;
 };
-document.addEventListener("DOMContentLoaded", showCards3);
+document.addEventListener("DOMContentLoaded", showCards3);*/
