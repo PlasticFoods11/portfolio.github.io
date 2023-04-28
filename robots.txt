@@ -10,4 +10,7 @@ Allow: /
 User-agent: Googlebot-News
 Allow: /
 
+User-agent: bingbot
+Allow: /
+
 Sitemap: https://julian-idl.codes/sitemap.xml
