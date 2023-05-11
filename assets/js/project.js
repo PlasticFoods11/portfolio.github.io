@@ -57,7 +57,7 @@ const projects = [
   {
     title: "Personal Portfolio Website",
     cardImage: "assets/images/project-page/portfolio.png",
-    description:"The portfolio website you are currently viewing built using HTML, CSS, Java Script and React.js",
+    description:"This website, built using HTML, CSS, Java Script and React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "",
