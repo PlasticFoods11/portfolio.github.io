@@ -1,5 +1,5 @@
 name: Mind your language
-# The events that triggers the workflow
+# The events that triggers the workflows
 on:
   issues:
     types: [opened, edited] # issue is opened or edited

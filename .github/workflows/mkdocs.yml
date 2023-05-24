@@ -1,5 +1,5 @@
 name: Build and Deploy Documentation using MkDocs
-# The events that triggers the workflow
+# The events that triggers the workflows
 on:
   push:
     branches: documentation

@@ -97,3 +97,5 @@ const fillData = () => {
   referenceTable.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", fillData);
+
+// Done

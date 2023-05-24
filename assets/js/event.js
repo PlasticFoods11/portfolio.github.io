@@ -114,3 +114,5 @@ $(document).ready(function () {
   // initializing swiper
   const slider = new Swiper(".image-slider", parallaxSliderOptions);
 });
+
+// Done

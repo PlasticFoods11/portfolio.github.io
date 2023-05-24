@@ -1,6 +1,6 @@
 # Reference: https://github.com/SvanBoxel/delete-merged-branch
 name: Delete Merged Branches
-# The event that triggers the workflow
+# The event that triggers the workflows
 on:
   pull_request:
     types:

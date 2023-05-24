@@ -203,3 +203,5 @@ const fillData = () => {
   researchTable.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", fillData);
+
+// Done
