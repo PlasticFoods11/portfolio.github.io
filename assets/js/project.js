@@ -98,7 +98,7 @@ const projects = [
   {
     title: "Covid-19 Tracker",
     cardImage: "assets/images/project-page/covid19.jpg",
-    description:  "An app to view the current covid-19 cases in India.",
+    description:  "An app to view the current covid stats in the world.",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
     Previewlink: "https://github.com/Julian-Idl/Covid-19-Tracker#demo-",
     Githublink: "https://github.com/Julian-Idl/Covid-19-Tracker",
@@ -122,7 +122,7 @@ const projects = [
 ];
 // function to truncate the description to 10 words 
 function truncate(str) {
-    return str.split(" ").splice(0,10).join(" ");
+    return str.split(" ").splice(0,15).join(" ");
 }
 // function for rendering project cards data
 const showCards = () => {
