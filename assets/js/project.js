@@ -104,6 +104,14 @@ const projects = [
     Githublink: "https://github.com/Julian-Idl/Covid-19-Tracker",
   },
   {
+    title: "MP3 Player",
+    cardImage: "assets/images/project-page/music1.jpg",
+    description:  "Python tkinter based music player which uses pygame library",
+    tagimg: "https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png",
+    Previewlink: "https://github.com/Julian-Idl/MP3-Player#demo-",
+    Githublink: "https://github.com/Julian-Idl/MP3-Player",
+  },
+  {
     title: "Image Editor",
     cardImage: "assets/images/project-page/imageeditor.png",
     description:  "Image editor built using Tensorflow.",
