@@ -27,7 +27,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="languages.html">Languages</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="https://discord.gg/A5Ww6HqXmz" target="_blank">Discord</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="https://hashnode.com/@JulianIdl" target="_blank">Blogs</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="https://github.com/Julian-Idl" target="_blank">GitHub</a></li>
 
    <li class="nav-item">
