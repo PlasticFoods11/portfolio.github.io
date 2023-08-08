@@ -11,7 +11,7 @@ const projects = [
     cardImage: "assets/images/project-page/pinkhairanimegirlcroped.jpg",
     description:  "An advance Discord Multipurpose Bot built using Discord.py.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://julian-idl.codes/lost/and/found",
+    Previewlink: "https://discord.com/api/oauth2/authorize?client_id=962323485772881950&permissions=8&scope=bot",
     Githublink: "https://julian-idl.codes/lost/and/found",
   },
   {
@@ -19,7 +19,7 @@ const projects = [
     cardImage: "assets/images/project-page/IconMinecrafticonserverdesignsitedesignservericon.png",
     description:  "A Minecraft server hosted by Julian-Idl on purpur 1.19.3.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
-    Previewlink: "https://julian-idl.codes/lost/and/found",
+    Previewlink: "https://discord.gg/fykHHeaMa9",
     Githublink: "https://julian-idl.codes/lost/and/found",
   },
   {
@@ -27,7 +27,7 @@ const projects = [
     cardImage: "assets/images/project-page/music.jpg",
     description:  "An advance discord music bot built using Discord.js.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://julian-idl.codes/lost/and/found",
+    Previewlink: "https://discord.com/api/oauth2/authorize?client_id=928650077822681138&permissions=8&scope=bot",
     Githublink: "https://julian-idl.codes/lost/and/found",
   },
   {
