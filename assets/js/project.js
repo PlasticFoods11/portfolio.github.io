@@ -124,8 +124,8 @@ const projects = [
     cardImage: "assets/images/project-page/imageeditor.png",
     description:  "Image editor built using Tensorflow.",
     tagimg: "https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png",
-    Previewlink: "https://julian-idl.codes/lost/and/found",
-    Githublink: "https://julian-idl.codes/lost/and/found",
+    Previewlink: "https://github.com/Julian-Idl/Image-Editor#demo-",
+    Githublink: "https://github.com/Julian-Idl/Image-Editor",
   },
   {
     title: "Basic Multiplayer Game",
